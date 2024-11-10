@@ -1,12 +1,12 @@
 Python Fundamental Assignment
 
-This is a capstone project of a crash course in Python Programming. The project consists of different tasks
+This is a capstone project of a credit based course in Python Programming. The project consists of different tasks
 that has briefly clarified some basic features of Python. The different parts of this project are as follows:
 
-1. The first task (data_types) is based on clarifying the concept of different data types in Python
+1. The first task (data_types) is based on clarifying the concept of different data types in Python.This code defines variables, performs arithmetic and logical operations, concatenates a string, and creates a dictionary to store values. 
 
-2. The second task (control_structure) explains how different loops and conditionals work. In the program, I have used while loop and if else conditional.
+2. The second task (control_structure) explains how different loops and conditionals work. This code defines a function classify_number() that repeatedly asks the user to input a number. It classifies the number as "Positive," "Negative," or "Zero." The loop continues until the user types "exit" to stop. It handles numeric input and classifies it, .
 
-3. The third task (calculator) is a simple calculator. The program takes two operands from the user and operates on them as per users choice.
+3. The third task (calculator) is a simple calculator. The program takes two operands from the user and operates on them as per users choice.It performs addition, subtraction, multiplication, and division. The user selects an operation, enters two numbers, and the result is displayed. The program continues until the user selects "5" to exit.
 
-4. The fourth and final task (todo_app) is a simple TO-DO list app that can add, delete and view the saved tasks. It is also programmed in a way that it covers most of the concepts like looping, conditionals, functions, file importing etc.
+4. The fourth and final task (todo_app)  is a simple to-do list application where the user can add, view, and delete tasks. The application consists of three Python files: main.py, which handles user interaction and displays a menu; todo_operations.py, which contains functions to add, view, and delete tasks; and utils.py, which includes utility functions like clearing the screen It is also programmed in a way that it covers most of the concepts like looping, conditionals, functions, file importing etc.
