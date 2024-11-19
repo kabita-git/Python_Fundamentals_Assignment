@@ -1,4 +1,4 @@
-Python Fundamental Assignment
+# Python Fundamental Assignment
 
 This is a capstone project of a credit based course in Python Programming. The project consists of different tasks
 that has briefly clarified some basic features of Python. The different parts of this project are as follows:
